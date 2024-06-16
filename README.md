@@ -9,7 +9,7 @@ Sujets abordées:
 - Asservissement placement de pôle
 - Asservissement LQI
 
-Pour mieux comprendre le projet, clique [ici]() pour ouvrir le rapport.
+Pour mieux comprendre le projet, clique [ici](https://github.com/thoid/Control-of-a-Wind-Turbine/blob/main/Rapport%20R%C3%A9gulation%20de%20puissance%20d'une%20%C3%A9olienne%20Groupe%202%20.pdf) pour ouvrir le rapport.
 ## Utilisation
 L'utilisation de chaque section du fichier Matlab est expliqué ici, en particulier l'utilisation des fichiers simulink liés.
 
@@ -65,3 +65,8 @@ On peut modifier la valeur du vent d'entré dans le parc éolien en jouant sur V
 Après avoir lancé la section on obtient la courbe de la puissance totale au niveau de chaque éolienne et l'optimisation des paramètres alpha de chaque éolienne. 
 
 # Auteurs
+- Thomas Idier
+- Baptiste Bouchez
+- Paul-AimeryPreveraud de Vaumas
+- Thibault Gellé
+  
